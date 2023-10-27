@@ -1,0 +1,9 @@
+C:\Users\User\Documents\PROG\AtomicListener\bin\Debug\key preview.exe
+C:\Users\User\Documents\PROG\AtomicListener\bin\Debug\key preview.pdb
+C:\Users\User\Documents\PROG\AtomicListener\obj\Debug\key preview.csproj.AssemblyReference.cache
+C:\Users\User\Documents\PROG\AtomicListener\obj\Debug\key_preview.Form1.resources
+C:\Users\User\Documents\PROG\AtomicListener\obj\Debug\key_preview.Properties.Resources.resources
+C:\Users\User\Documents\PROG\AtomicListener\obj\Debug\key preview.csproj.GenerateResource.cache
+C:\Users\User\Documents\PROG\AtomicListener\obj\Debug\key preview.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\PROG\AtomicListener\obj\Debug\key preview.exe
+C:\Users\User\Documents\PROG\AtomicListener\obj\Debug\key preview.pdb
